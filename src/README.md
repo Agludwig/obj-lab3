@@ -1,4 +1,1 @@
-# oopd-gu-chalmers Lab 1
-Lab assignment 1 in the course Object-oriented Programming and Design, GU/Chalmers
-
-See Canvas for instructions.
+Kan ha baserat ganska mycket på en äldre version av labb 2 och jag vet inte hur die-hard de var med OEP. Därför valde jag att göra studsandet till sin egen klass och interface som hanterar sånt.
